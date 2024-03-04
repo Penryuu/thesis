@@ -1,5 +1,5 @@
 # DER.ClassIL.Pytorch
-This repo is the official implementation of [DER: Dynamically Expandable Representation for Class Incremental Learning
+[DER: Dynamically Expandable Representation for Class Incremental Learning
 ](https://arxiv.org/abs/2103.16788) (CVPR 2021)
 
 
